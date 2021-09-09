@@ -11,7 +11,7 @@ a {
 #box {
   width: 200px;
   height: 200px;
-  background: hotpink;
+  background: blue;
   display: flex;
   justify-content: center;
   align-items: center;
